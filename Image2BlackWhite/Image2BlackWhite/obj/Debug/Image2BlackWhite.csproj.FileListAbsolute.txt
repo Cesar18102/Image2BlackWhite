@@ -1,0 +1,7 @@
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\bin\Debug\Image2BlackWhite.exe.config
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\bin\Debug\Image2BlackWhite.exe
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\bin\Debug\Image2BlackWhite.pdb
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\obj\Debug\Image2BlackWhite.csprojAssemblyReference.cache
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\obj\Debug\Image2BlackWhite.csproj.CoreCompileInputs.cache
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\obj\Debug\Image2BlackWhite.exe
+D:\!!!OLEG\!!!WORK\GitHub\Image2BlackWhite\Image2BlackWhite\Image2BlackWhite\obj\Debug\Image2BlackWhite.pdb
